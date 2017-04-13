@@ -1,0 +1,24 @@
+﻿Build started 2016/12/28 20:30:30.
+     1>Project "C:\Users\Administrator\Desktop\OpinionMining\build\src\Deep2\Deep2.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Administrator/Desktop/OpinionMining/src/Deep2/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Administrator\Desktop\OpinionMining\build\src\Deep2\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\eigen /I"E:\Users\LibN3L-2.0" /IC:\Users\Administrator\Desktop\OpinionMining\src\basic /IC:\Users\Administrator\Desktop\OpinionMining\src\Deep2\model /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /GR /Fo"Deep2.dir\Debug\\" /Fd"Deep2.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt  -w -msse3 -funroll-loops -std=c++11 -Ofast -march=native C:\Users\Administrator\Desktop\OpinionMining\src\Deep2\BiShallowSoftMax.cpp
+     1>cl : Command line warning D9025: overriding '/W3' with '/w'
+     1>cl : Command line warning D9025: overriding '/Os' with '/Ot'
+     1>cl : Command line warning D9002: ignoring unknown option '-msse3'
+     1>cl : Command line warning D9002: ignoring unknown option '-funroll-loops'
+     1>cl : Command line warning D9002: ignoring unknown option '-std=c++11'
+     1>cl : Command line warning D9002: ignoring unknown option '-Of'
+     1>cl : Command line warning D9002: ignoring unknown option '-Oa'
+     1>cl : Command line warning D9002: ignoring unknown option '-march=native'
+         BiShallowSoftMax.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\OpinionMining\bin\Debug\Deep2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Administrator/Desktop/OpinionMining/bin/Debug/Deep2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Administrator/Desktop/OpinionMining/bin/Debug/Deep2.lib" /MACHINE:X86 /SAFESEH  /machine:X86 Deep2.dir\Debug\BiShallowSoftMax.obj
+         Deep2.vcxproj -> C:\Users\Administrator\Desktop\OpinionMining\bin\Debug\Deep2.exe
+     1>Done Building Project "C:\Users\Administrator\Desktop\OpinionMining\build\src\Deep2\Deep2.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.33

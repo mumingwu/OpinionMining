@@ -1,0 +1,6 @@
+C:/Users/Administrator/Desktop/OpinionMining/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/OpinionMining/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Administrator/Desktop/OpinionMining/build/src/ShallowSoftMax/CMakeFiles/ShallowSoftMax.dir
+C:/Users/Administrator/Desktop/OpinionMining/build/src/ShallowCRFLoss/CMakeFiles/ShallowCRFLoss.dir
+C:/Users/Administrator/Desktop/OpinionMining/build/src/BiShallowSoftMax/CMakeFiles/BiShallowSoftMax.dir
+C:/Users/Administrator/Desktop/OpinionMining/build/src/Deep2/CMakeFiles/Deep2.dir

@@ -1,0 +1,15 @@
+﻿Build started 2016/12/28 20:34:51.
+     1>Project "C:\Users\Administrator\Desktop\OpinionMining\build\ZERO_CHECK.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/Administrator/Desktop/OpinionMining/build/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Administrator/Desktop/OpinionMining/build/src/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Administrator/Desktop/OpinionMining/build/src/ShallowSoftMax/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Administrator/Desktop/OpinionMining/build/src/ShallowCRFLoss/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Administrator/Desktop/OpinionMining/build/src/BiShallowSoftMax/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Administrator/Desktop/OpinionMining/build/src/Deep2/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "C:\Users\Administrator\Desktop\OpinionMining\build\ZERO_CHECK.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53
